@@ -15,6 +15,7 @@
 
 ## 2. 主语、语气与标点
 
+- 按句子所述动作选择研究动词。探索开放问题可用 *explore a question*，分析观测数据可用 *analyze the data*，检验预设假设可用 *test a hypothesis*。介绍变量在模型中的角色时，*include W as a moderator* 表示纳入变量，*test the moderating effect of W* 表示检验调节效应。*Examine* 与实际分析相符时可以沿用。用文献支持换词建议时，核对发表原文中该动词的宾语和句型，优先选放回原句后仍自然、准确的表达。
 - 优先用具体主语和短句，指明谁判断、谁响应、哪项变量变化。少用反复自指和 this、that、these、those 等指示代词。使用代词时，所指的名词须已在前文出现，且读者能唯一识别。多个名词都可能是所指对象时，重写核心术语或具体主语。
 - 不把“少用第三人称”变成必须we或必须被动句。研究自身选择可用we；表图、变量、结果或行动者作主语通常更直接，按句子清晰度选择。
 - 检查 *may*、*can*、*could* 或 *potential* 时，优先标出同句和相邻句里反复限定同一判断的用法。只删词时按[最高优先级规则](../SKILL.md#最高优先级规则)执行。起草或明确获准改写时，直接陈述观察到的关联，如 *was associated with*。机制尚未检验时，可用 *One possible explanation is that …* 引出解释。同一限定适用于两个并列谓语时可以共用一次。分别表达能力、可能性、建议或未来方向时，保留各自的语气。
@@ -40,7 +41,7 @@
 
 ## 3. 标题体系
 
-- 标题短且具体，同级平行。理论小节可用“The mediating role of M”“The moderating role of W”；结果小节可用“Mediation analysis”“Moderation analysis”。
+- 同级标题在命名对象和语法结构上保持平行，词数可随术语而定。理论小节可用 *The mediating role of M* 和 *The moderating role of W*，结果小节可用 *Mediation analysis* 和 *Moderation analysis*。异质性小节若按分组变量命名，各标题均写变量名称，具体比较的组别在正文交代。相邻标题用词重复时，优先调整一处，并核对候选名称在发表文献中的用法是否符合本研究的变量定义。
 - 不混用变量名、宽泛channel与模型阶段命名同级章节；First-stage、linear component等技术术语仅在研究内容确需时入题。
 - 不把所有路径、样本、设定与结论塞入标题；上下级避免同义重复，不用“W and the M channel”掩盖调节对象。
 - 全稿按期刊统一大小写、编号与标点。改标题不等于改假设或总题名；题名空格先核真实换行，避免将PDF提取粘连当原文错误。
